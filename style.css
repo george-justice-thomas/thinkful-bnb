@@ -181,7 +181,7 @@ footer p {
   }
 }
 
-@media all and (width: 365px){
+@media all and (max-width: 367px){
   .logo {
     font-size: 37px;
     margin-top: 10px;
